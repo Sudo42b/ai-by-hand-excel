@@ -1,3 +1,4 @@
+https://www.byhand.ai/archive?sort=top
 # ai-by-hand-excel
 
 AI by Hand ✍️ Exercises in Excel
